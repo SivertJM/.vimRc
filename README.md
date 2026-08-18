@@ -1,1 +1,1 @@
-Personlig vim oppsett for kjapp oppsett.
+Personlig vim oppsett.
